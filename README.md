@@ -5,8 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Built With
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 - React
 - Redux
